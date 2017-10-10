@@ -1,0 +1,1 @@
+xargs -ICONTENT curl -X POST --data-urlencode "payload={\"channel\": \"#xx_your_channnel_name\", \"username\": \"isuconbot\", \"text\": \""CONTENT"\", \"icon_emoji\": \":ghost:\"}" https://hooks.slack.com/services/YOUR_CHANNNEL_TOKEN
